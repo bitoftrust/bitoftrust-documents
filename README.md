@@ -58,7 +58,7 @@ If you want to contribute to the protocol, you can find us [here on github](http
 
 Get in [contact via our projectsite](https://bitoftrust.io/#contact) if you would have any other questions or collaboration proposals.  
 
-This projectsite itself uses the [Hugo](https://gohugo.io/) template [Academic](https://sourcethemes.com/academic/) and is hosted via [Netlify](https://www.netlify.com/). If you see anything you would like to change, you can open an issue or pull request [here in the github repository](https://github.com/jeborsel/ngitrust_projectsite) or directly by the **editing option at the bottom of each post** .
+The projectsite itself uses the [Hugo](https://gohugo.io/) template [Academic](https://sourcethemes.com/academic/) and is hosted via [Netlify](https://www.netlify.com/). If you see anything you would like to change, you can open an issue or pull request [here in the github repository](https://github.com/jeborsel/ngitrust_projectsite) or directly by the **editing option at the bottom of each post** .
 
 ### Some history on this project
 
